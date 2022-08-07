@@ -50,3 +50,5 @@ This is an extra line
 This is readme3
 
 testing signed
+
+wth -S
