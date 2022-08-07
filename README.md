@@ -52,3 +52,5 @@ This is readme3
 testing signed
 
 wth -S
+
+updated my settings
